@@ -53,16 +53,6 @@ class ReportActivity : AppCompatActivity() {
                     append("전체 총점 : ${allTotal}점\n")
                     append("전체 평균 : ${allAvg}점\n")
 
-//                text = "국어 총점 : 100점\n"
-//                append("국어 평균 : 100점\n")
-//                append("영어 총점 : 100점\n")
-//                append("영어 평균 : 100점\n")
-//                append("수학 총점 : 100점\n")
-//                append("수학 평균 : 100점\n")
-//                append("\n")
-//                append("전체 총점 : 100점\n")
-//                append("전체 평균 : 100점\n")
-                }
             }
         }
     }
